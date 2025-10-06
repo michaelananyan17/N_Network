@@ -1,0 +1,66 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked
+1,0,3,"(Mr., Owen, Harris, Braund, )",male,22,1,0,21171,8,S
+2,1,1,"(Mrs., John, Bradley, Cumings, Florence Briggs Thayer)",female,38,1,0,17599,72,C
+3,1,3,"(Miss., Laina, , Heikkinen, )",female,26,0,0,3101282,8,S
+4,1,1,"(Mrs., Jacques, Heath, Futrelle, Lily May Peel)",female,35,1,0,113803,54,S
+5,0,3,"(Mr., William, Henry, Allen, )",male,35,0,0,373450,9,S
+6,0,3,"(Mr., James, , Moran, )",male,25,0,0,330877,9,Q
+7,0,1,"(Mr., Timothy, J, McCarthy, )",male,54,0,0,17463,52,S
+8,0,3,"(Master., Gosta, Leonard, Palsson, )",male,2,3,1,349909,22,S
+9,1,3,"(Mrs., Oscar, W, Johnson, Elisabeth Vilhelmina Berg)",female,27,0,2,347742,12,S
+10,1,2,"(Mrs., Nicholas, , Nasser, Adele Achem)",female,14,1,0,237736,31,C
+11,1,3,"(Miss., Marguerite, Rut, Sandstrom, )",female,4,1,1,9549,17,S
+12,1,1,"(Miss., Elizabeth, , Bonnell, )",female,58,0,0,113783,27,S
+13,0,3,"(Mr., William, Henry, Saundercock, )",male,20,0,0,2151,9,S
+14,0,3,"(Mr., Anders, Johan, Andersson, )",male,39,1,5,347082,32,S
+15,0,3,"(Miss., Hulda, Amanda Adolfina, Vestrom, )",female,14,0,0,350406,8,S
+16,1,2,"(Mrs., , , Hewlett, Mary D Kingcome)",female,55,0,0,248706,16,S
+17,0,3,"(Master., Eugene, , Rice, )",male,2,4,1,382652,30,Q
+18,1,2,"(Mr., Charles, Eugene, Williams, )",male,25,0,0,244373,13,S
+19,0,3,"(Mrs., Julius, , Vander Planke, Emelia Maria Vandemoortele)",female,31,1,0,345763,18,S
+20,1,3,"(Mrs., Fatima, , Masselmani, )",female,25,0,0,2649,8,C
+21,0,2,"(Mr., Joseph, J, Fynney, )",male,35,0,0,239865,26,S
+22,1,2,"(Mr., Lawrence, , Beesley, )",male,34,0,0,248698,13,S
+23,1,3,"(Miss., Anna, ""Annie"", McGowan, )",female,15,0,0,330923,9,Q
+24,1,1,"(Mr., William, Thompson, Sloper, )",male,28,0,0,113788,36,S
+25,0,3,"(Miss., Torborg, Danira, Palsson, )",female,8,3,1,349909,22,S
+26,1,3,"(Mrs., Carl, Oscar, Asplund, Selma Augusta Emilia Johansson)",female,38,1,5,347077,32,S
+27,0,3,"(Mr., Farred, Chehab, Emir, )",male,25,0,0,2631,8,C
+28,0,1,"(Mr., Charles, Alexander, Fortune, )",male,19,3,2,19950,263,S
+29,1,3,"(Miss., Ellen, ""Nellie"", O'Dwyer, )",female,25,0,0,330959,8,Q
+30,0,3,"(Mr., Lalio, , Todoroff, )",male,25,0,0,349216,8,S
+31,0,1,"(Don., Manuel, E, Uruchurtu, )",male,40,0,0,17601,28,C
+32,1,1,"(Mrs., William, Augustus, Spencer, Marie Eugenie)",female,25,1,0,17569,147,C
+33,1,3,"(Miss., Mary, Agatha, Glynn, )",female,25,0,0,335677,8,Q
+34,0,2,"(Mr., Edward, H, Wheadon, )",male,66,0,0,24579,11,S
+35,0,1,"(Mr., Edgar, Joseph, Meyer, )",male,28,1,0,17604,83,C
+36,0,1,"(Mr., Alexander, Oskar, Holverson, )",male,42,1,0,113789,52,S
+37,0,3,"(Mr., Hanna, , Mamee, )",male,25,0,0,2677,8,C
+38,0,3,"(Mr., Ernest, Charles, Cann, )",male,21,0,0,2152,9,S
+39,0,3,"(Miss., Augusta, Maria, Vander Planke, )",female,18,2,0,345764,18,S
+40,1,3,"(Miss., Jamila, , Nicola-Yarred, )",female,14,1,0,2651,12,C
+41,0,3,"(Mrs., Johan, , Ahlin, Johanna Persdotter Larsson)",female,40,1,0,7546,10,S
+42,0,2,"(Mrs., William, John Robert, Turpin, Dorothy Ann Wonnacott)",female,27,1,0,11668,21,S
+43,0,3,"(Mr., Theodor, , Kraeff, )",male,25,0,0,349253,8,C
+44,1,2,"(Miss., Simonne, Marie Anne Andree, Laroche, )",female,3,1,2,2123,42,C
+45,1,3,"(Miss., Margaret, Delia, Devaney, )",female,19,0,0,330958,8,Q
+46,0,3,"(Mr., William, John, Rogers, )",male,25,0,0,23567,9,S
+47,0,3,"(Mr., Denis, , Lennon, )",male,25,1,0,370371,16,Q
+48,1,3,"(Miss., Bridget, , O'Driscoll, )",female,25,0,0,14311,8,Q
+49,0,3,"(Mr., Youssef, , Samaan, )",male,25,2,0,2662,22,C
+50,0,3,"(Mrs., Josef, , Arnold-Franchi, Josefine Franchi)",female,18,1,0,349237,18,S
+51,0,3,"(Master., Juha, Niilo, Panula, )",male,7,4,1,3101295,40,S
+52,0,3,"(Mr., Richard, Cater, Nosworthy, )",male,21,0,0,39886,8,S
+53,1,1,"(Mrs., Henry, Sleeper, Harper, Myna Haxtun)",female,49,1,0,17572,77,C
+54,1,2,"(Mrs., Lizzie, , Faunthorpe, Elizabeth Anne Wilkinson)",female,29,1,0,2926,26,S
+55,0,1,"(Mr., Engelhart, Cornelius, Ostby, )",male,65,0,1,113509,62,C
+56,1,1,"(Mr., Hugh, , Woolner, )",male,25,0,0,19947,36,S
+57,1,2,"(Miss., Emily, , Rugg, )",female,21,0,0,31026,11,S
+58,0,3,"(Mr., Mansouer, , Novel, )",male,29,0,0,2697,8,C
+59,1,2,"(Miss., Constance, Mirium, West, )",female,5,1,2,34651,28,S
+60,0,3,"(Master., William, Frederick, Goodwin, )",male,11,5,2,2144,47,S
+61,0,3,"(Mr., Orsen, , Sirayanian, )",male,22,0,0,2669,8,C
+62,1,1,"(Miss., Amelie, , Icard, )",female,38,0,0,113572,80,
+63,0,1,"(Mr., Henry, Birkhardt, Harris, )",male,45,1,0,36973,84,C
+64,0,3,"(Master., Harald, , Skoog, )",male,4,3,2,347088,28,S
+65,0,1,"(Mr., Albert, A, Stewart, )",male,25,0,0,17605,28
